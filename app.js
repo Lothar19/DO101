@@ -1,4 +1,4 @@
-console.log("Hello DO101 Apps!!!!!\n"); 
+console.log("Hello DO101 Apps!\n"); 
 
 var express = require('express');
 app = express();
